@@ -76,16 +76,16 @@ WSGI_APPLICATION = 'crmapp.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crmbuild',
-        'USER': 'root',
-        'PASSWORD': 'Nas@3137_shah',
-        'HOST': 'localhost',
-        'PORT': '3306',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'crmbuild',
+#         'USER': 'root',
+#         'PASSWORD': 'Nas@3137_shah',
+#         'HOST': 'localhost',
+#         'PORT': '3306',
+#     }
+# }
 
 
 # Password validation
